@@ -1,11 +1,6 @@
 #EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
 
-#EXTM3U
-#EXTINF:-1,--- LISTA GRATIS achoapps.com
-http://www.achotv.com
-#EXTINF:-1,--- Visita www.achoapps.com ---
-
 -------------------------------
 
 
