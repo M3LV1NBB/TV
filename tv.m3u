@@ -3,8 +3,6 @@
 http://www.achotv.com
 #EXTINF:-1,--- Visita www.achoapps.com ---
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/13max.png" group-title="Entretenimiento", 13 MAX (Argentina)
 http://coninfo.net:1935/13maxhd/live_720p/.m3u8
 
